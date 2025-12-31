@@ -1,4 +1,4 @@
-# inventory-management-system
+# Inventory-management-system
 
 This project is a Java-based Inventory Management System designed to efficiently manage inventory data for a business. It helps in handling products, stock levels, suppliers, customers, purchases, and sales using a structured and database-driven approach.
 
